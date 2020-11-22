@@ -1,2 +1,9 @@
 # Sea
-do not go gentle into that good night
+do
+not 
+go 
+gentle
+into
+that
+good
+night
